@@ -1,4 +1,8 @@
+body{
+  background:grey;
+}
+
 h2{
 color:red;
-  font:helvetica;       
+  font-family:arial;       
 }
